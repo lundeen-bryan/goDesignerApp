@@ -1,5 +1,4 @@
 # GoDesigner App
-
 ![goDesigner before and after](beforeafter.jpg)
 > Part 2 of HTML wireframes; applying designs in CSS
 
@@ -33,31 +32,28 @@ Project based on [Applying Design To Wireframes with HTML5 & CSS3]( https://www.
 - HTML5
 - CSS3
 
-[Back To The Top](#godesigner-app)
+[Back To The Top](godesigner-app)
 
 ---
 
 ## How To Use
 
 #### Installation
-
 Simple single page. 
 
 #### API Reference
-
 None
 
-[Back To The Top](#godesigner-app)
+[Back To The Top](godesigner-app)
 ---
 
 ## References
-
 none
-[Back To The Top](#godesigner-app)
+
+[Back To The Top](godesigner-app)
 ---
 
 ## License
-
 MIT License
 Copyright (c) [2020] [Bryan Lundeen]
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -76,7 +72,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](#godesigner-app)
+[Back To The Top](godesigner-app)
 ---
 
 ## Author Info
