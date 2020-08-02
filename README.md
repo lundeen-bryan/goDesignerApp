@@ -1,10 +1,15 @@
 # GoDesigner App
+
 ![goDesigner before and after](beforeafter.jpg)
 > Part 2 of HTML wireframes; applying designs in CSS
+
 ---
+
 ### Link To Project
-See the [[Project name on Netlify]]([netlify-url]) on Netlify.
+See the [goDesigner](https://lundeen-bryan-godesigner.netlify.app/) on Netlify.
+
 ---
+
 ### Table of Contents
 Breakdown of this readme file.
 - [Description](#description)
@@ -12,7 +17,9 @@ Breakdown of this readme file.
 - [References](#references)
 - [License](#license)
 - [Author Info](#author-info)
+
 ---
+
 ## Description
 This was part 2 of Geoff Blake’s courses, the first was called “Website Wireframing with HTML5 & CSS3” where we made the wireframe layout. This course picks up from there to learn applying CSS styles to the wireframe. 
 It was generally very easy to learn, building as a responsive site was out of the scope of this small course, but it is touched on. 
@@ -21,24 +28,34 @@ The styling came with images needed but also explained how to find those images.
 Gave this a 4.5 star rating and could have been improved by using vscode and updating some of the websites that were referenced. Such as the old Yahoo developer kit which no longer exists. 
    
 Project based on [Applying Design To Wireframes with HTML5 & CSS3]( https://www.udemy.com/course/applying-design-to-wireframes-with-html5-css3/)
+
 #### Technologies
 - HTML5
 - CSS3
+
 [Back To The Top](#godesigner-app)
+
 ---
+
 ## How To Use
+
 #### Installation
+
 Simple single page. 
 
 #### API Reference
+
 None
 
 [Back To The Top](#godesigner-app)
 ---
+
 ## References
+
 none
 [Back To The Top](#godesigner-app)
 ---
+
 ## License
 
 MIT License
@@ -61,7 +78,9 @@ SOFTWARE.
 
 [Back To The Top](#godesigner-app)
 ---
+
 ## Author Info
+
 - Github - [lundeen-bryan](https://github.com/lundeen-bryan)
 - LinkedIn - [BryanLundeen](https://www.linkedin.com/in/bryanlundeen/)
 [Back To The Top](#godesigner-app)
