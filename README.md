@@ -32,7 +32,7 @@ Project based on [Applying Design To Wireframes with HTML5 & CSS3]( https://www.
 - HTML5
 - CSS3
 
-[Back To The Top](godesigner-app)
+[Back To The Top](#godesigner-app)
 
 ---
 
@@ -44,13 +44,15 @@ Simple single page.
 #### API Reference
 None
 
-[Back To The Top](godesigner-app)
+[Back To The Top](#godesigner-app)
+
 ---
 
 ## References
 none
 
-[Back To The Top](godesigner-app)
+[Back To The Top](#godesigner-app)
+
 ---
 
 ## License
@@ -72,7 +74,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](godesigner-app)
+[Back To The Top](#godesigner-app)
+
 ---
 
 ## Author Info
